@@ -1,0 +1,389 @@
+[
+  {
+    "id": 1,
+    "name": "G-T-Shirt",
+    "price": 49.99,
+    "Category": "Women",
+    "Variety": "Print",
+    "image": "./public/images/img-women-1 (24).jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Classic T-Shirt",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (19).jpeg"
+  },
+
+  {
+    "id": 3,
+    "name": "Classic T-Shirt",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (16).jpeg"
+  },
+  {
+    "id": 4,
+    "name": "3-Piece Suit",
+    "Category": "Women",
+    "Variety": "3piece",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (17).jpeg"
+  },
+  {
+    "id": 5,
+    "name": "3-Piece Suit",
+    "Category": "Women",
+    "Variety": "3-Piece",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (17).jpeg"
+  },
+  {
+    "id": 6,
+    "name": "3-Piece Suit(London)",
+    "price": 49.99,
+    "Category": "Women",
+    "Variety": "3-Piece",
+    "image": "./public/images/img-women-1 (18).jpeg"
+  },
+  {
+    "id": 7,
+    "name": "G-T-Shirt",
+    "Category": "Women",
+    "Variety": "Embeded",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (19).jpeg"
+  },
+  {
+    "id": 8,
+    "name": "G-T-Shirt",
+    "price": 59.99,
+    "Category": "Women",
+    "Variety": "Print",
+    "image": "./public/images/img-women-1 (20).jpeg"
+  },
+  {
+    "id": 9,
+    "name": "G-T-Shirt",
+    "Category": "Women",
+    "Variety": "Print",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (21).jpeg"
+  },
+  {
+    "id": 10,
+    "name": "G-T-Shirt",
+    "price": 49.99,
+    "Category": "Women",
+    "Variety": "Print",
+    "image": "./public/images/img-women-1 (22).jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Classic T-Shirt",
+    "Category": "Women",
+    "Variety": "Print",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (23).jpeg"
+  },
+  {
+    "id": 12,
+    "name": "G-T-Shirt",
+    "price": 49.99,
+    "Category": "Women",
+    "Variety": "Print",
+    "image": "./public/images/img-women-1 (24).jpeg"
+  },
+  {
+    "id": 13,
+    "name": "G-T-Shirt",
+    "Category": "Women",
+    "Variety": "Print",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (25).jpeg"
+  },
+  {
+    "id": 14,
+    "name": "G-T-Shirt",
+    "price": 59.99,
+    "Category": "Women",
+    "Variety": "Print",
+    "image": "./public/images/img-women-1 (26).jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Khurana",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (12).jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Slim Fit Jeans",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (13).jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Classic T-Shirt",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (14).jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Slim Fit Jeans",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (15).jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Classic T-Shirt",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (16).jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Slim Fit Jeans",
+    "price": 59.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (17).jpeg"
+  },
+
+  {
+    "id": 21,
+    "name": "3-Piece Suit",
+    "Category": "Women",
+    "Variety": "3piece",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (17).jpeg"
+  },
+  {
+    "id": 22,
+    "name": "3-Piece Suit",
+    "price": 49.99,
+    "Category": "Women",
+    "Variety": "3piece",
+    "image": "./public/images/img-women-1 (18).jpeg"
+  },
+  {
+    "id": 23,
+    "name": "G-T-Shirt",
+    "Category": "Women",
+    "Variety": "Embeded",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (19).jpeg"
+  },
+  {
+    "id": 24,
+    "name": "G-T-Shirt",
+    "price": 59.99,
+    "Category": "Men",
+    "Variety": "Print",
+    "image": "./public/images/img-women-1 (20).jpeg"
+  },
+  {
+    "id": 25,
+    "name": "G-T-Shirt",
+    "Category": "Women",
+    "Variety": "Print",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (21).jpeg"
+  },
+  {
+    "id": 26,
+    "name": "G-T-Shirt",
+    "price": 49.99,
+    "Category": "Women",
+    "Variety": "Shirt-trouser",
+    "image": "./public/images/img-women-1 (22).jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Classic T-Shirt",
+    "Category": "Women",
+    "Variety": "Print",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (23).jpeg"
+  },
+  {
+    "id": 28,
+    "name": "G-T-Shirt",
+    "price": 49.99,
+    "Category": "Women",
+    "Variety": "Shirt-trouser",
+    "image": "./public/images/img-women-1 (24).jpeg"
+  },
+  {
+    "id": 29,
+    "name": "G-T-Shirt",
+    "Category": "Women",
+    "Variety": "Print",
+    "price": 29.99,
+    "image": "./public/images/img-women-1 (25).jpeg"
+  },
+  {
+    "id": 30,
+    "name": "G-T-Shirt",
+    "price": 59.99,
+    "Category": "Women",
+    "Variety": "Print",
+    "image": "./public/images/img-women-1 (26).jpeg"
+  },
+  {
+    "id": 31,
+    "name": "Khurana",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (12).jpeg"
+  },
+  {
+    "id": 32,
+    "name": "Slim Fit Jeans",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (13).jpeg"
+  },
+  {
+    "id": 33,
+    "name": "Classic T-Shirt",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (14).jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Slim Fit Jeans",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (15).jpeg"
+  },
+  {
+    "id": 35,
+    "name": "Classic T-Shirt",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (16).jpeg"
+  },
+  {
+    "id": 36,
+    "name": "Slim Fit Jeans",
+    "price": 59.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (17).jpeg"
+  },
+
+  {
+    "id": 37,
+    "name": "Classic T-Shirt",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (18).jpeg"
+  },
+  {
+    "id": 38,
+    "name": "Slim Fit Jeans",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (19).jpeg"
+  },
+  {
+    "id": 39,
+    "name": "Zainjee",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (20).jpeg"
+  },
+  {
+    "id": 40,
+    "name": "Grace",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (21).jpeg"
+  },
+  {
+    "id": 41,
+    "name": "Gul Ahmed",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (22).jpeg"
+  },
+  {
+    "id": 42,
+    "name": "Zainjee",
+    "price": 59.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (1).jpeg"
+  },
+  {
+    "id": 43,
+    "name": "Gul Ahmed",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (2).jpeg"
+  },
+  {
+    "id": 44,
+    "name": "Chainfor",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (3).jpeg"
+  },
+  {
+    "id": 45,
+    "name": "Sofia",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (4).jpeg"
+  },
+  {
+    "id": 46,
+    "name": "Khurana",
+    "price": 49.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (5).jpeg"
+  },
+  {
+    "id": 47,
+    "name": "Grace",
+    "Category": "Men",
+    "Variety": "Cotton",
+    "price": 29.99,
+    "image": "./public/images/img-men-1 (6).jpeg"
+  },
+  {
+    "id": 48,
+    "name": "Zainjee",
+    "price": 59.99,
+    "Category": "Men",
+    "Variety": "Washingware",
+    "image": "./public/images/img-men-1 (7).jpeg"
+  }
+]
