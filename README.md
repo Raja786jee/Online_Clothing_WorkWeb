@@ -28,4 +28,23 @@ An online clothing e-commerce platform built using [your tech stack].
 🔗 [View Live Site](https://your-live-link.netlify.app)
 
 ## 📁 Project Structure
+/client
+/components
+/pages
+/server (if full stack)
+/routes
+/controllers
+
+
+
+## 🧠 Learnings
+
+- Improved understanding of responsive layout using Flexbox/Grid
+- Worked with React states and props for component-based UI
+- Gained experience in designing clean UI for e-commerce flows
+
+## 🙌 Author
+
+Raja Abdur Rehman  
+[LinkedIn](https://linkedin.com/in/raja-abdur-rehman-8939b9296) | [Portfolio](#)
 
